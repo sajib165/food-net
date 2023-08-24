@@ -1,0 +1,43 @@
+ body{
+    : 'Poppins', sans-serif;
+ }
+ section{
+    display: flex;
+    margin-bottom: 150px;
+ }
+ h1{
+    font-size: 50px;
+ }
+ .life{ 
+    color: orangered;
+ }
+ .A{ 
+    font-size: 25px;
+ }
+ .dite{
+    width: 50%;
+    padding-left: 5%;
+ }
+ .book{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+
+ }
+ .girl{
+    width: 50%;
+    padding-left: 5%;
+ }
+ .mid{
+    background-image: url(pic/back.png);
+
+ }
+ .contact{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+
+ }
