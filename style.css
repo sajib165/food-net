@@ -53,3 +53,18 @@
    box-shadow: 10px 10px 20px gray;
    margin: 10px 10px ;
  }
+ .like{
+   text-decoration: none;
+   text-align: center;
+   width: 50%;
+   font-size: 25px;
+   font-weight: 700;
+   background-image: linear-gradient(white,white);
+   padding: 4px 4px;
+   border-radius: 15px;
+   margin: 5px 5px 5px;
+   box-shadow: 2px 2px 2px gray;
+   margin: 10px 10px ;
+   
+ }
+ 
