@@ -1,7 +1,7 @@
  body{
     : 'Poppins', sans-serif;
  }
- section{
+  .flex{
     display: flex;
     margin-bottom: 150px;
  }
@@ -41,4 +41,15 @@
     border-radius: 5px;
 
  }
- .recipies{text-align: center;}
+ .recipies{text-align: center;
+   font-size: 30px;
+   
+  }
+ 
+ .box{
+   padding: 10px 20px;
+   border-radius: 5px;
+   width: 50%;
+   box-shadow: 10px 10px 20px gray;
+   margin: 10px 10px ;
+ }
